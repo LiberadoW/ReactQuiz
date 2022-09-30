@@ -1,4 +1,4 @@
-# [Live preview](liberadoquizapp.netlify.app)
+# [Live preview](https://liberadoquizapp.netlify.app/)
 
 ## Overview
 
